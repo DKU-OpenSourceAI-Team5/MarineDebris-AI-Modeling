@@ -1,0 +1,240 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1,
+          359
+        ],
+        [
+          63,
+          448
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          112,
+          472
+        ],
+        [
+          192,
+          520
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          20,
+          496
+        ],
+        [
+          72,
+          530
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          405,
+          441
+        ],
+        [
+          513,
+          485
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          834,
+          624
+        ],
+        [
+          895,
+          666
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          518,
+          422
+        ],
+        [
+          618,
+          506
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          677,
+          645
+        ],
+        [
+          807,
+          769
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Net",
+      "points": [
+        [
+          655,
+          670
+        ],
+        [
+          998,
+          800
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          1,
+          457
+        ],
+        [
+          903,
+          720
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          459,
+          65
+        ],
+        [
+          734,
+          337
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          690,
+          36
+        ],
+        [
+          771,
+          121
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          412,
+          146
+        ],
+        [
+          489,
+          202
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          622,
+          316
+        ],
+        [
+          665,
+          350
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_400.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-21",
+  "time": "15:02:56",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.01,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

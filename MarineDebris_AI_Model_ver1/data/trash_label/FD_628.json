@@ -1,0 +1,138 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          352,
+          324
+        ],
+        [
+          460,
+          424
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          237,
+          246
+        ],
+        [
+          312,
+          389
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          387,
+          288
+        ],
+        [
+          496,
+          379
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          474,
+          87
+        ],
+        [
+          640,
+          185
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          572,
+          31
+        ],
+        [
+          654,
+          111
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          392,
+          1
+        ],
+        [
+          520,
+          86
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          447,
+          1
+        ],
+        [
+          588,
+          64
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_628.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-15",
+  "time": "10:57:08",
+  "device": "Phantom4Pro",
+  "camera": "FC6310S",
+  "shutter": 0.003125,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

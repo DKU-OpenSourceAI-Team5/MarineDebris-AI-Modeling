@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1098,
+          637
+        ],
+        [
+          1200,
+          761
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          126,
+          725
+        ],
+        [
+          244,
+          799
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          352,
+          365
+        ],
+        [
+          629,
+          712
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_347.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-13",
+  "time": "13:30:39",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.00625,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

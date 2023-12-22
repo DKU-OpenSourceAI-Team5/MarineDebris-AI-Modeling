@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Net",
+      "points": [
+        [
+          1,
+          346
+        ],
+        [
+          100,
+          399
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          200,
+          132
+        ],
+        [
+          265,
+          237
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          619,
+          667
+        ],
+        [
+          685,
+          758
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1753.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-21",
+  "time": "15:02:28",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.00625,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

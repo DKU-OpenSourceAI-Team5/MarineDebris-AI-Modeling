@@ -1,0 +1,53 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          1143,
+          601
+        ],
+        [
+          1200,
+          751
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          961,
+          153
+        ],
+        [
+          1032,
+          250
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1904.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-13",
+  "time": "10:09:43",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.008333333333333333,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

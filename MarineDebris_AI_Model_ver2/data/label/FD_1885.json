@@ -1,0 +1,87 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          466,
+          187
+        ],
+        [
+          535,
+          313
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          222,
+          194
+        ],
+        [
+          324,
+          350
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          322,
+          282
+        ],
+        [
+          419,
+          490
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          1,
+          424
+        ],
+        [
+          113,
+          523
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1885.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-14",
+  "time": "10:03:51",
+  "device": "Phantom4Pro",
+  "camera": "FC6310S",
+  "shutter": 0.005,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

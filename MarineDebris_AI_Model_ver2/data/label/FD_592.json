@@ -1,0 +1,104 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          747,
+          464
+        ],
+        [
+          814,
+          504
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          737,
+          503
+        ],
+        [
+          798,
+          557
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          803,
+          488
+        ],
+        [
+          849,
+          546
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          805,
+          447
+        ],
+        [
+          985,
+          566
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          929,
+          754
+        ],
+        [
+          983,
+          800
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_592.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-21",
+  "time": "15:01:43",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.004166666666666667,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

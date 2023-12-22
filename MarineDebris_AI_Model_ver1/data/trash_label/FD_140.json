@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          907,
+          109
+        ],
+        [
+          1074,
+          282
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          997,
+          374
+        ],
+        [
+          1061,
+          440
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          979,
+          426
+        ],
+        [
+          1125,
+          634
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_140.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-15",
+  "time": "10:57:16",
+  "device": "Phantom4Pro",
+  "camera": "FC6310S",
+  "shutter": 0.003125,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

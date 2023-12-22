@@ -1,0 +1,87 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          908,
+          53
+        ],
+        [
+          991,
+          150
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy_China",
+      "points": [
+        [
+          988,
+          361
+        ],
+        [
+          1115,
+          488
+        ]
+      ],
+      "origin": "foreign",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          876,
+          1
+        ],
+        [
+          1078,
+          369
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Net",
+      "points": [
+        [
+          846,
+          1
+        ],
+        [
+          1200,
+          249
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_271.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-21",
+  "time": "11:17:59",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.003125,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

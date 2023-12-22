@@ -1,0 +1,36 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Styrofoam_Box",
+      "points": [
+        [
+          1057,
+          1145
+        ],
+        [
+          1547,
+          1512
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1973.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 3024,
+  "date": "2021-10-13",
+  "time": "16:20:20",
+  "device": "GalaxyS8Plus",
+  "camera": "SM-G955N",
+  "shutter": 0.0033003300330033004,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

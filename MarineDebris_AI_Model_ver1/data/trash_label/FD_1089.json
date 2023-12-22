@@ -1,0 +1,189 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Glass",
+      "points": [
+        [
+          1004,
+          693
+        ],
+        [
+          1052,
+          723
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          753,
+          480
+        ],
+        [
+          846,
+          527
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy_China",
+      "points": [
+        [
+          534,
+          429
+        ],
+        [
+          632,
+          527
+        ]
+      ],
+      "origin": "foreign",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          477,
+          482
+        ],
+        [
+          553,
+          706
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          658,
+          196
+        ],
+        [
+          712,
+          255
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          442,
+          206
+        ],
+        [
+          502,
+          300
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          1,
+          199
+        ],
+        [
+          149,
+          317
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          714,
+          364
+        ],
+        [
+          783,
+          406
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          393,
+          1
+        ],
+        [
+          490,
+          21
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          480,
+          1
+        ],
+        [
+          531,
+          60
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1089.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-15",
+  "time": "10:18:56",
+  "device": "Phantom4Pro",
+  "camera": "FC6310S",
+  "shutter": 0.004166,
+  "altitude": 10.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

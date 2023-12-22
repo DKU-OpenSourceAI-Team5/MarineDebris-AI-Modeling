@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          941,
+          191
+        ],
+        [
+          993,
+          243
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          596,
+          663
+        ],
+        [
+          679,
+          726
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          634,
+          648
+        ],
+        [
+          728,
+          715
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_833.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-14",
+  "time": "13:56:39",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.00625,
+  "altitude": 10.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

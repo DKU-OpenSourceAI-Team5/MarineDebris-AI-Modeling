@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          463,
+          643
+        ],
+        [
+          502,
+          709
+        ]
+      ],
+      "origin": "aquafarm",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          852,
+          452
+        ],
+        [
+          985,
+          572
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_Buoy",
+      "points": [
+        [
+          937,
+          591
+        ],
+        [
+          1165,
+          772
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_129.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-13",
+  "time": "10:57:42",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.005,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

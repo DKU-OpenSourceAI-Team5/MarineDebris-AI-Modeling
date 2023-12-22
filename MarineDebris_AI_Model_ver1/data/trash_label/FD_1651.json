@@ -1,0 +1,121 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          1,
+          370
+        ],
+        [
+          41,
+          457
+        ]
+      ],
+      "origin": "aquafarm",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          1,
+          1
+        ],
+        [
+          102,
+          99
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          24,
+          423
+        ],
+        [
+          174,
+          553
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1011,
+          626
+        ],
+        [
+          1087,
+          677
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Buoy",
+      "points": [
+        [
+          1,
+          546
+        ],
+        [
+          104,
+          785
+        ]
+      ],
+      "origin": "aquafarm",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          266,
+          617
+        ],
+        [
+          423,
+          695
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1651.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-10-13",
+  "time": "13:14:37",
+  "device": "Mavic2Pro",
+  "camera": "L1D-20c",
+  "shutter": 0.004166666666666667,
+  "altitude": 5.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

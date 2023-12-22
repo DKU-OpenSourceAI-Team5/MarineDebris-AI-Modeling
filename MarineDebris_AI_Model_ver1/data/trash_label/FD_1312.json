@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Net",
+      "points": [
+        [
+          1181,
+          207
+        ],
+        [
+          1629,
+          319
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Net",
+      "points": [
+        [
+          792,
+          226
+        ],
+        [
+          936,
+          281
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          936,
+          245
+        ],
+        [
+          1184,
+          285
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1312.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 3024,
+  "date": "2021-10-15",
+  "time": "10:48:33",
+  "device": "GalaxyS20Plus",
+  "camera": "SM-G986N",
+  "shutter": 0.0022988505747126436,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

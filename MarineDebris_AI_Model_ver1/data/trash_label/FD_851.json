@@ -1,0 +1,36 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          2063,
+          1846
+        ],
+        [
+          2183,
+          1946
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_851.jpg",
+  "imageData": null,
+  "imageHeight": 1960,
+  "imageWidth": 3840,
+  "date": "2021-08-26",
+  "time": "12:42:00",
+  "device": "CCTV_IDIS",
+  "camera": "DR-0423P",
+  "shutter": 0.002,
+  "altitude": 10.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Brown"
+}

@@ -1,0 +1,138 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1647,
+          1506
+        ],
+        [
+          1868,
+          1608
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1904,
+          1599
+        ],
+        [
+          2077,
+          1787
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          151,
+          259
+        ],
+        [
+          242,
+          291
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          141,
+          71
+        ],
+        [
+          223,
+          112
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1487,
+          2633
+        ],
+        [
+          1815,
+          3208
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          95,
+          100
+        ],
+        [
+          153,
+          125
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          3261,
+          1949
+        ],
+        [
+          3456,
+          2176
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_496.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 3456,
+  "date": "2021-10-13",
+  "time": "13:24:07",
+  "device": "GalaxyA8",
+  "camera": "SM-A810S",
+  "shutter": 0.0007347538574577516,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

@@ -1,0 +1,53 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          1561,
+          1483
+        ],
+        [
+          1935,
+          1789
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1230,
+          66
+        ],
+        [
+          1372,
+          151
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1282.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 3024,
+  "date": "2021-10-15",
+  "time": "11:32:29",
+  "device": "GalaxyS20Plus",
+  "camera": "SM-G986N",
+  "shutter": 0.0030864197530864196,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

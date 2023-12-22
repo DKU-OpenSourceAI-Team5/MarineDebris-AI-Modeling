@@ -1,0 +1,121 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Glass",
+      "points": [
+        [
+          1,
+          744
+        ],
+        [
+          144,
+          843
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          1697,
+          121
+        ],
+        [
+          1758,
+          222
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Glass",
+      "points": [
+        [
+          1828,
+          130
+        ],
+        [
+          1901,
+          203
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1805,
+          245
+        ],
+        [
+          1943,
+          313
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1,
+          33
+        ],
+        [
+          76,
+          93
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          2332,
+          601
+        ],
+        [
+          2429,
+          686
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_420.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 3024,
+  "date": "2021-10-15",
+  "time": "11:09:04",
+  "device": "GalaxyS20Plus",
+  "camera": "SM-G986N",
+  "shutter": 0.002421307506053269,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

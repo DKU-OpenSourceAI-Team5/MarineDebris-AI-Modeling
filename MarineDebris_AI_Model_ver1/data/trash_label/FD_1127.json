@@ -1,0 +1,87 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1808,
+          738
+        ],
+        [
+          2024,
+          965
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1,
+          2697
+        ],
+        [
+          108,
+          2848
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "PET_Bottle",
+      "points": [
+        [
+          1204,
+          1758
+        ],
+        [
+          1680,
+          2317
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          1,
+          660
+        ],
+        [
+          128,
+          743
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1127.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 3456,
+  "date": "2021-10-22",
+  "time": "09:54:22",
+  "device": "GalaxyA8",
+  "camera": "SM-A810S",
+  "shutter": 0.003067484662576687,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}
