@@ -1,0 +1,87 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1519,
+          2603
+        ],
+        [
+          1976,
+          3154
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          1719,
+          2090
+        ],
+        [
+          2122,
+          2671
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Box",
+      "points": [
+        [
+          2265,
+          2175
+        ],
+        [
+          2839,
+          2919
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Plastic_ETC",
+      "points": [
+        [
+          1934,
+          1324
+        ],
+        [
+          3321,
+          3414
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_263.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 3456,
+  "date": "2021-10-22",
+  "time": "09:54:34",
+  "device": "GalaxyA8",
+  "camera": "SM-A810S",
+  "shutter": 0.0037174721189591076,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

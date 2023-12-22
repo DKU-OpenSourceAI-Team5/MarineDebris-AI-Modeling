@@ -1,0 +1,53 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Net",
+      "points": [
+        [
+          1,
+          40
+        ],
+        [
+          1433,
+          2810
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Rope",
+      "points": [
+        [
+          804,
+          2640
+        ],
+        [
+          3456,
+          3456
+        ]
+      ],
+      "origin": "fishing",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_1629.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 3456,
+  "date": "2021-10-22",
+  "time": "10:09:01",
+  "device": "GalaxyA8",
+  "camera": "SM-A810S",
+  "shutter": 0.0034482758620689655,
+  "altitude": 0.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Blue"
+}

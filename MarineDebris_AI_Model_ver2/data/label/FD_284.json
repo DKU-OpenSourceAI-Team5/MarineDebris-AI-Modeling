@@ -1,0 +1,70 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Glass",
+      "points": [
+        [
+          282,
+          173
+        ],
+        [
+          335,
+          201
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Styrofoam_Piece",
+      "points": [
+        [
+          843,
+          62
+        ],
+        [
+          876,
+          88
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Metal",
+      "points": [
+        [
+          901,
+          87
+        ],
+        [
+          922,
+          139
+        ]
+      ],
+      "origin": "coast",
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "FD_284.jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200,
+  "date": "2021-08-26",
+  "time": "10:42:20",
+  "device": "Phantom4Pro",
+  "camera": "FC6310S",
+  "shutter": 0.002,
+  "altitude": 10.0,
+  "lat": null,
+  "lon": null,
+  "gtype": "Brown"
+}
