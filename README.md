@@ -288,21 +288,24 @@ print('-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.6855<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.4420
 
-<img width="658" alt="KakaoTalk_Photo_2023-12-22-20-17-06 001png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/c4892e8a-07bd-40da-bc99-35e10f612a7f"><br>
+<img width="658" alt="KakaoTalk_Photo_2023-12-22-20-17-06 001png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/6f8828e5-6aea-4462-bf38-66064ba673fc"><br>
+
 
 
 &nbsp;&nbsp;**2. Dataset 크기 = 1000**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.1954<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.5631
 
-<img width="680" alt="KakaoTalk_Photo_2023-12-22-20-17-06 002png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/0caa9564-1cce-416e-82e0-8fa246c5d1ac"><br>
+<img width="680" alt="KakaoTalk_Photo_2023-12-22-20-17-06 002png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/5eff2e36-fb21-4350-b1ef-32cb6c180cea"><br>
+
 
 
 &nbsp;&nbsp;**3. Dataset 크기 = 1500**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.1089<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.5704
 
-<img width="660" alt="KakaoTalk_Photo_2023-12-22-20-17-06 003png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/6c21723a-c174-45e4-8c4d-c83526d8a618"><br>
+<img width="660" alt="KakaoTalk_Photo_2023-12-22-20-17-06 003png" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/4e20f0a6-9721-42ff-a223-cdee266b1b6e"><br>
+
 
 
 <br>
@@ -312,18 +315,19 @@ print('-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*')
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.8764<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.4229
 
-<img width="1202" alt="pycharm_500" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/ab9d7f36-dd72-4403-8710-689546871579"><br>
+<img width="1202" alt="pycharm_500" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/c887ad8c-f56a-48ba-951d-b4aee2fb5b1b"><br>
 
 
 &nbsp;&nbsp;**2. Dataset 크기 = 1000**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.7778<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.4191
 
-<img width="1145" alt="pycharm_1000" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/3018314f-2066-4ffc-99fc-cb7ba7322620"><br>
+<img width="1145" alt="pycharm_1000" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/710a9241-727c-44b0-9d2f-210600698420"><br>
 
 
 &nbsp;&nbsp;**3. Dataset 크기 = 1500**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Loss: 1.8276<br>
 &nbsp;&nbsp;&nbsp;&nbsp;▶️ Total Accuracy: 0.4520
 
-<img width="1146" alt="pycharm_1500" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/d5fa04bd-7936-4626-91c8-40de260ba245">
+<img width="1146" alt="pycharm_1500" src="https://github.com/DKU-OpenSourceAI-Team5/MarineDebris-AI-Modeling/assets/86196342/3774c58c-b076-45f8-8d50-8df2c1c7a945">
+
